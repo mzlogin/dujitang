@@ -1223,8 +1223,8 @@ let soul = [
 '你妹是个好姑娘，替你妈分担了很多。',
 ];
 
-let index = Math.floor(Math.random() * soul.length);
+function randomSentence() {
+  document.getElementById('sentence').innerHTML = soul[Math.floor(Math.random() * soul.length)];
+}
 
-let sentence = soul[index];
-
-document.getElementById('sentence').innerHTML = sentence;
+randomSentence();
