@@ -7,5 +7,6 @@
 ## Credits
 
 * [egotong/nows][nows]
+* [jitang.fun](http://jitang.fun/)
 
 [nows]: https://github.com/egotong/nows
