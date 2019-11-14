@@ -7197,6 +7197,11 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover {
 	float: none!important;
 }
 
+.float-center {
+	float: none!important;
+  text-align: center;
+}
+
 @media (min-width:576px) {
 	.float-sm-left {
 		float: left!important;
