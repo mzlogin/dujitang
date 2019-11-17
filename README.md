@@ -4,6 +4,10 @@
 
 访问地址：<https://dujitang.mazhuang.org>
 
+## 语录参考链接
+
+- <https://www.zhihu.com/question/43340253>
+
 ## Credits
 
 * [egotong/nows][nows]
